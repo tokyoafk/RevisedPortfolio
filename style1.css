@@ -80,7 +80,7 @@ header {
 .btn {
     display: inline-block;
     width: fit-content;
-    padding: 10rem;
+    padding: 1rem;
     border-radius: 0.5rem;
     cursor: pointer;
     color: #000000;
@@ -94,7 +94,7 @@ header {
 .btn:hover {
     background: #000000;
     color: #f6a2ff;
-    transform: translateY(5px);
+    transform: translateY(10px);
 }
 .socials-icons {
     position: absolute;
@@ -123,4 +123,5 @@ header {
     align-items: center;
 
 }
+
 
