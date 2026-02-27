@@ -80,7 +80,7 @@ header {
 .btn {
     display: inline-block;
     width: fit-content;
-    padding: 1rem;
+    padding: 5rem;
     border-radius: 0.5rem;
     cursor: pointer;
     color: #000000;
@@ -121,4 +121,5 @@ header {
     font-weight: 600;
     display: flex;
     align-items: center;
+
 }
